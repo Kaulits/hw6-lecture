@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hw6-lecture/static/css/main.7acaea2f.css",
-    "main.js": "/hw6-lecture/static/js/main.c0da1cfd.js",
+    "main.js": "/hw6-lecture/static/js/main.9e66328f.js",
     "index.html": "/hw6-lecture/index.html",
     "main.7acaea2f.css.map": "/hw6-lecture/static/css/main.7acaea2f.css.map",
-    "main.c0da1cfd.js.map": "/hw6-lecture/static/js/main.c0da1cfd.js.map"
+    "main.9e66328f.js.map": "/hw6-lecture/static/js/main.9e66328f.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.c0da1cfd.js"
+    "static/js/main.9e66328f.js"
   ]
 }
