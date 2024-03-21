@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw6-lecture/static/css/main.7acaea2f.css",
+    "main.js": "/hw6-lecture/static/js/main.c0da1cfd.js",
+    "index.html": "/hw6-lecture/index.html",
+    "main.7acaea2f.css.map": "/hw6-lecture/static/css/main.7acaea2f.css.map",
+    "main.c0da1cfd.js.map": "/hw6-lecture/static/js/main.c0da1cfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.c0da1cfd.js"
+  ]
+}
